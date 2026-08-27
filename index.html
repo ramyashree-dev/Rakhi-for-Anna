@@ -24,14 +24,6 @@
     --shadow: 0 14px 34px rgba(123,45,59,0.12);
   }
 
-  *{box-sizing:border-box;}
-  html{scroll-behavior:smooth;}
-  body.scroll-locked{
-    position: fixed;
-    inset: 0;
-    width: 100%;
-    overflow: hidden;
-  }
   body{
     margin:0;
     background: var(--cream);
@@ -776,14 +768,7 @@
   seedAmbient(document.getElementById('awards-ambient'), ['🏆','✨','🎉'], 7);
 
   /* ---------- Open button scroll (locked until clicked) ---------- */
-  document.body.classList.add('scroll-locked');
-
-  function isLocked(){ return document.body.classList.contains('scroll-locked'); }
-  const blockKeys = ['ArrowDown','ArrowUp','PageDown','PageUp','Space',' ','End','Home'];
-  document.addEventListener('wheel', (e) => { if(isLocked()) e.preventDefault(); }, {passive:false});
-  document.addEventListener('touchmove', (e) => { if(isLocked()) e.preventDefault(); }, {passive:false});
-  document.addEventListener('keydown', (e) => { if(isLocked() && blockKeys.includes(e.key)) e.preventDefault(); });
-
+ 
   document.getElementById('openBtn').addEventListener('click', () => {
     document.body.classList.remove('scroll-locked');
     document.getElementById('beginning').scrollIntoView({behavior: reduceMotion ? 'auto' : 'smooth'});
