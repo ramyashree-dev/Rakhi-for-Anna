@@ -1,0 +1,186 @@
+# 🪢 Rakhi for Anna ❤️
+
+A cute and heartfelt Raksha Bandhan digital surprise created specially for my brother.
+
+This isn't just a Raksha Bandhan greeting — it's a small interactive journey through our sibling bond, from childhood memories and silly fights to his caring heart, support, and everything I don't always say out loud. 🥹❤️
+
+---
+
+## 🌸 About the Project
+
+**Rakhi for Anna** is a personal single-page interactive website created as a Raksha Bandhan gift for my brother.
+
+The website combines:
+
+- 🧸 Childhood memories
+- 😂 Funny sibling fights
+- 😤 Teasing and annoying each other
+- 🛡️ His protective nature
+- ❤️ His caring heart
+- 🫶 His support and love
+- 🌱 Growing up together
+- 💌 A personal letter
+- 🪢 Raksha Bandhan celebration
+- 🤝 A promise from sister to brother
+- 🏆 Fun "Brother Awards"
+- ✨ Cute animations and illustrations
+
+The goal is to make the experience feel like opening a small digital storybook made especially for him.
+
+---
+
+## ✨ Features
+
+### 🌸 Interactive Opening
+
+The website begins with:
+
+> **Hey Anna... ❤️**
+
+followed by a surprise button that starts the journey.
+
+### 🧸 Childhood Story
+
+A nostalgic section about growing up together and the memories created along the way.
+
+### 😂 Sibling Fights
+
+A playful section celebrating all the silly arguments, teasing, blaming and annoying moments that come with being siblings.
+
+### 🛡️ Caring Heart
+
+A heartfelt section highlighting the small ways a brother shows that he cares.
+
+### ❤️ Little Things That Matter
+
+The website talks about the little gestures that often mean more than words:
+
+- Checking if I'm okay
+- Giving advice
+- Helping when needed
+- Making me laugh
+- Looking out for me
+- Being there when it matters
+
+### 🫶 Brother Cards
+
+Interactive cards describe him as:
+
+- My Protector
+- My Professional Annoyer
+- My Emergency Problem Solver
+- My Personal Teaser
+- My Support System
+- My Brother
+- My Forever Family
+
+### 🌱 Growing Together
+
+A section reflecting on watching each other grow from childhood to the present day.
+
+### 💌 Personal Letter
+
+The emotional centerpiece of the website is a handwritten-style letter dedicated to my brother.
+
+### 🪢 Raksha Bandhan Moment
+
+A special Rakhi section celebrates the meaning behind the festival and the bond between brother and sister.
+
+### 🤝 Sister's Promise
+
+A heartfelt promise about always being there for my brother regardless of how much life changes.
+
+### 🏆 Official Brother Awards
+
+A fun collection of brother awards such as:
+
+- 🏆 Best Protector
+- 😂 Best Annoyer
+- 🛡️ Best Bodyguard
+- 🫶 Best Support System
+- 😤 Best Professional Teaser
+- 🫡 Best Problem Solver
+- ❤️ Biggest Softie
+- ♾️ Best Brother — Forever
+
+### ✨ Final Celebration
+
+The website ends with:
+
+> **Happy Raksha Bandhan, Anna! 🪢🌸**
+
+and a final message from his little sister.
+
+---
+
+## 🎨 Design
+
+The website uses a soft, warm and cute aesthetic inspired by a digital greeting card and illustrated storybook.
+
+### Color Palette
+
+- 🌸 Soft Pink
+- 🤍 Cream
+- 🍑 Peach
+- ❤️ Warm Red
+- 🍷 Burgundy
+- ✨ Subtle Gold
+
+The design focuses on:
+
+- Rounded cards
+- Soft shadows
+- Handwritten-style typography
+- Gentle animations
+- Cute illustrations
+- Warm and nostalgic visuals
+
+---
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- SVG illustrations
+- CSS animations
+- Responsive Web Design
+- Google Fonts
+
+No backend or database is required.
+
+---
+
+## 📱 Responsive Design
+
+The website is designed to work across:
+
+- 📱 Mobile phones
+- 💻 Laptops
+- 🖥️ Desktop screens
+- 📟 Tablets
+
+Special attention is given to mobile viewing because the website is intended to be shared digitally.
+
+---
+
+## ♿ Accessibility
+
+The website includes support for:
+
+- Keyboard-friendly interactions
+- Reduced motion preferences
+- Responsive typography
+- Readable color combinations
+- Accessible interactive elements
+
+Users who enable `prefers-reduced-motion` will receive a reduced-animation experience.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ramyashree-dev/Rakhi-Wish.git
